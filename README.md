@@ -31,3 +31,6 @@ Como administrador, quiero agregar productos para actualizar el inventario.
 
 ## Funcionalidades implementadas:
 - Catálogo de productos
+
+## Características:
+- Sistema de pago
