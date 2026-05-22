@@ -13,3 +13,6 @@ class Producto:
 
     def mostrar_producto(self):
         print(f"{self.nombre} - Precio: ${self.__precio} - Stock: {self.__stock}")
+
+    def actualizar_stock(self, cantidad):
+        self.__stock += cantidad
