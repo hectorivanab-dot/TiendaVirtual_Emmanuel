@@ -22,3 +22,6 @@ class Carrito:
     def vaciar_carrito(self):
         self.items.clear()
         print("Carrito vaciado.")
+
+    def eliminar_producto(self, producto):
+        self.items.remove(producto)       
