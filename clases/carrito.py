@@ -18,3 +18,7 @@ class Carrito:
             total += producto.obtener_precio()
 
         return total
+
+    def vaciar_carrito(self):
+        self.items.clear()
+        print("Carrito vaciado.")
