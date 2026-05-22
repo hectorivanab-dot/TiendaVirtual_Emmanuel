@@ -19,3 +19,5 @@ carrito.mostrar_carrito()
 
 # Mostrar total
 print(f"Total: ${carrito.calcular_total()}")
+
+print("Factura generada correctamente")
