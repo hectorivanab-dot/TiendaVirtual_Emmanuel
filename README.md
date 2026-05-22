@@ -28,3 +28,6 @@ Como cliente, quiero ver el total de la compra para saber cuánto pagar.
 
 ### Administrador
 Como administrador, quiero agregar productos para actualizar el inventario.
+
+## Funcionalidades implementadas:
+- Catálogo de productos
