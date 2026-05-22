@@ -31,3 +31,5 @@ Como administrador, quiero agregar productos para actualizar el inventario.
 
 ## Funcionalidades implementadas:
 - Catálogo de productos
+
+- Carrito de compras
